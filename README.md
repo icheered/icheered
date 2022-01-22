@@ -7,7 +7,7 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=icheered&theme=dark&show_icons=true&hide=stars&include_all_commits=true&count_private=true)
 
-![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icheered&layout=compact&theme=dark&hide=c)
+![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icheered&layout=compact&theme=dark&hide=c,css)
 
 
 
