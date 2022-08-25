@@ -1,8 +1,8 @@
 ## Hi there, I'm Tjeerd - aka [ICheered](https://icheered.nl/)
 
-### I'm an Electrical Engineer and a Software Developer!
+### I'm an Robotics/Electrical Engineer and a Software Developer!
 - 📚 Studying at [University of Twente](https://www.utwente.nl/en/)
-- 💻 Working as fullstack developer at [Extendas BV](https://www.extendas.com/)
+- 💻 Working as fullstack developer at [Lente Digital](https://lentedigital.nl/)
 - Always lost in too many side projects!
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=icheered&theme=dark&show_icons=true&hide=stars&include_all_commits=true&count_private=true)
