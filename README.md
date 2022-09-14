@@ -13,12 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icheered&theme=dark&langs_count=10&hide=css,purebasic,java,Objective-C&layout=compact" />
 </a>
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=icheered&theme=dark&show_icons=true&hide=stars&include_all_commits=true&count_private=true)
-
-![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icheered&theme=dark&langs_count=10&hide=css,purebasic,java,Objective-C&layout=compact)
-
-
-
 <!--
 **icheered/icheered** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
