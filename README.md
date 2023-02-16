@@ -1,6 +1,6 @@
 ## Hi there, I'm Tjeerd - aka [ICheered](https://icheered.nl/)
 
-### I'm an Robotics/Electrical Engineer and a Software Developer!
+### I'm a Robotics/Electrical Engineer and a Software Developer!
 - 📚 Studying at [University of Twente](https://www.utwente.nl/en/)
 - 💻 Working as fullstack developer at [Lente Digital](https://lentedigital.nl/)
 - Always lost in too many side projects!
