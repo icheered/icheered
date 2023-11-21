@@ -17,8 +17,9 @@ Note: This is the cumulative total of all my projects throughout my entire codin
 <a href="https://github.com/icheered">
 <img align="center" src="https://github-readme-stats-nine-delta-35.vercel.app/api/top-langs/?username=icheered&theme=dark&langs_count=10&hide=perl,scss,java,objective-c,jupyter notebook&layout=compact&size_weight=1&count_weight=0" />
 </a>
+
 <br/>
-<br/>
+
 <a href="https://github.com/icheered">
   <img align="center" src="https://github-readme-stats-nine-delta-35.vercel.app/api?username=icheered&theme=dark&show_icons=true&hide=stars&include_all_commits=true&count_private=true" />
 </a>
