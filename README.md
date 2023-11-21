@@ -19,7 +19,7 @@ Note: This is the cumulative total of all my projects throughout my entire codin
 </a>
 <br/>
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/icheered">
   <img align="center" src="https://github-readme-stats-nine-delta-35.vercel.app/api?username=icheered&theme=dark&show_icons=true&hide=stars&include_all_commits=true&count_private=true" />
 </a>
 
