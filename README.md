@@ -1,9 +1,9 @@
 ## Hi there, I'm Tjeerd - aka [ICheered](https://icheered.com/)
 
-### I'm a Robotics/Electrical Engineer and a Software Developer!
+### I'm a Robotics/Electrical/Software Engineer
 
-- 📚 Studying at [University of Twente](https://www.utwente.nl/en/)
-- 💻 Working as fullstack developer at [Lente Digital](https://lentedigital.nl/)
+- 🦾 Currently working on L2 self-driving cars at [NXP](https://www.nxp.com/) as a senior engineer from [Sioux Technologies](https://www.sioux.eu/)
+- 📚 BSc Electrical Engineering and MSc Robotics from [University of Twente](https://www.utwente.nl/en/)
 - Always lost in too many side projects!
 
 ## My recent coding stats
